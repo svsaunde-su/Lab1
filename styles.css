@@ -22,14 +22,32 @@ ul {
     float: right;
 }
 
-
 ul a {
     color: rebeccapurple;
     text-decoration: none;
 }
 
-ul li{
+ul li {
+    margin: 0px;
     float: left;
 }
 
+.content {
+    width: 70%;
+    background-color: lightgray;
+    height: 500px;
+    float: left;
+}
+
+.sidebar {
+    width: 30%;
+    background-color: grey;
+    color: #fff;
+    height: 500px;
+    float: right;
+}
+
+p {
+    margin: 20px;
+}
 
