@@ -1,0 +1,35 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    height: 60px;
+    line-height: 60px;
+    padding: 20px;
+    background-color: palegoldenrod;
+}
+
+h1{
+    margin: 0;
+    float: left;
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    float: right;
+}
+
+
+ul a {
+    color: rebeccapurple;
+    text-decoration: none;
+}
+
+ul li{
+    float: left;
+}
+
+
